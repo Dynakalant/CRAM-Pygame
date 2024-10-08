@@ -33,7 +33,7 @@ gravity = 0.001
 auto_acq = True
 
 
-projectile_base_cooldown = 26
+projectile_base_cooldown = 200
 projectile_cooldown = 0
 MIN_COOLDOWN = 25
 increasing_projectile_rate = True
