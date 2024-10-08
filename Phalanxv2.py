@@ -33,10 +33,10 @@ gravity = 0.001
 auto_acq = True
 
 
-projectile_base_cooldown = 200
+projectile_base_cooldown = 200 # Affects initial spawn rate of incoming projectiles
 projectile_cooldown = 0
 MIN_COOLDOWN = 25
-increasing_projectile_rate = True
+increasing_projectile_rate = True # If true, the rate of projectile spawn will slowly increase.
 
 # Containers storing all bullets, projectiles, and radar contacts
 all_bullets = []
